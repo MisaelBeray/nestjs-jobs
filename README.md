@@ -2,7 +2,6 @@
 
 </br>
 </br>
-</br>
 
 <p align="center">
   <a href="https://ethereal.email/" target="blank"><img src="https://alternative.me/media/256/sendinblue-icon-ew9hi029r1ty916v-c.png" width="220" alt="Nest Logo" /></a>
@@ -12,6 +11,12 @@
 
 [Ethereal](https://ethereal.email/) This project I use the smtp generator, please fill the <b>.env</b> with the information provided by this site.
 
+</br>
+  
+<p align="left"> Integrated Bull Dashboard
+to access: <b>localhost:3000/admin/queues</>
+</p>
+  
 </br>
 </br>
 </br>
