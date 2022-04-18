@@ -1,3 +1,9 @@
+<b>*This project was built based on the following Rocketseat video:</b> [Rocketseat](https://www.youtube.com/watch?v=cpLBaVBMg2Y&list=FL6Ca7LmE_ShugX-sFU2T4_A&ab_channel=Rocketseat)
+
+</br>
+</br>
+</br>
+
 <p align="center">
   <a href="https://ethereal.email/" target="blank"><img src="https://alternative.me/media/256/sendinblue-icon-ew9hi029r1ty916v-c.png" width="220" alt="Nest Logo" /></a>
 </p>
