@@ -16,6 +16,8 @@
 <p align="left"> Integrated Bull Dashboard
 to access: <b>localhost:3000/admin/queues</>
 </p>
+
+Mandatory use of [Redis](https://hub.docker.com/_/redis)
   
 </br>
 </br>
