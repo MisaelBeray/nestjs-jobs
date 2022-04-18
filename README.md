@@ -1,4 +1,16 @@
 <p align="center">
+  <a href="https://ethereal.email/" target="blank"><img src="https://alternative.me/media/256/sendinblue-icon-ew9hi029r1ty916v-c.png" width="220" alt="Nest Logo" /></a>
+</p>
+
+## Description
+
+[Ethereal](https://ethereal.email/) This project I use the smtp generator, please fill the <b>.env</b> with the information provided by this site.
+
+</br>
+</br>
+</br>
+
+<p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
